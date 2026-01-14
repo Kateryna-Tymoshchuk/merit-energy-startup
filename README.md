@@ -1,4 +1,4 @@
-# Merit Energy — AI Home Energy Optimisation Startup
+# Startup Development Case: Merit Energy — AI Home Energy Optimisation Platform
 
 Merit Energy is a digital startup concept focused on helping households optimise energy usage and EV charging through AI-driven insights.
 
