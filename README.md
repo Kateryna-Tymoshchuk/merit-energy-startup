@@ -37,18 +37,19 @@ It combines real-time data, AI recommendations, and intuitive dashboards to help
 Below are selected interface concepts demonstrating the core product vision.
 
 ### Smart AI Recommendations
-![Smart AI](assets/01- Smart AI Recommendations feature.png)
+![Smart AI](assets/01-smart-ai.png)
 
 Personalised, actionable suggestions based on real usage patterns and tariff dynamics.
 
 ### Insights & Energy Breakdown
-![Insights](assets/02-Insights page.png)
+![Insights](assets/02-insights.png)
 
 Clear visibility of where energy is spent — EV charging, heating, lighting, and idle devices.
 
 ### Real-Time Dashboard
-![Dashboard](assets/03- Dashboard interface.png)
+![Dashboard](assets/03-dashboard.png)
 
 Live pricing, cost forecasting, carbon impact, and automated charge planning in one place.
+
 
 > Full business model, financial projections, and go-to-market strategy are documented in the project report.
