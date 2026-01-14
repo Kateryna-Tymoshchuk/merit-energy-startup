@@ -52,4 +52,4 @@ Clear visibility of where energy is spent — EV charging, heating, lighting, an
 Live pricing, cost forecasting, carbon impact, and automated charge planning in one place.
 
 
-> Full business model, financial projections, and go-to-market strategy are documented in the project report.
+> The full business model, financial projections, and go-to-market strategy are documented in the project report and can be shared upon request.
