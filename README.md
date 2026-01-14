@@ -28,3 +28,27 @@ The project was developed as part of an MSc in Digital Business and represents a
 ---
 
 Merit Energy reflects my ability to operate at the intersection of **strategy, product, and digital execution** — turning abstract problems into structured, buildable solutions.
+
+## Product Preview
+
+Merit Energy is a smart home energy optimisation platform designed for EV owners.  
+It combines real-time data, AI recommendations, and intuitive dashboards to help users reduce costs, optimise charging, and lower their carbon footprint.
+
+Below are selected interface concepts demonstrating the core product vision.
+
+### Smart AI Recommendations
+![Smart AI](assets/01- Smart AI Recommendations feature.png)
+
+Personalised, actionable suggestions based on real usage patterns and tariff dynamics.
+
+### Insights & Energy Breakdown
+![Insights](assets/02-Insights page.png)
+
+Clear visibility of where energy is spent — EV charging, heating, lighting, and idle devices.
+
+### Real-Time Dashboard
+![Dashboard](assets/03- Dashboard interface.png)
+
+Live pricing, cost forecasting, carbon impact, and automated charge planning in one place.
+
+> Full business model, financial projections, and go-to-market strategy are documented in the project report.
